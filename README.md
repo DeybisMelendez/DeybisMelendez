@@ -27,9 +27,10 @@ local DeybisMelendez = {
     },
     programmingLanguages = {
         lua = 100/100,
+        golang = 60/100,
+        javascript = 50/100,
         python = 50/100,
         dart = 50/100,
-        javascript = 30/100,
         ruby = 30/100,
         vala = 20/100,
         java = 20/100,
