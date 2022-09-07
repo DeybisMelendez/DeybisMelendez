@@ -3,7 +3,7 @@
 *Indie Game Developer*
 
 [![GitHub followers](https://img.shields.io/github/followers/DeybisMelendez?label=Follow%20me%21&style=social)](https://github.com/DeybisMelendez)
-[![Twitter Follow](https://img.shields.io/twitter/follow/damvcito?label=Follow%20@Damvcito%21&style=social)](https://twitter.com/Damvcito)
+[![Twitter Follow](https://img.shields.io/twitter/follow/damvcito?label=Follow%20@Damvcito%21&style=social)](https://twitter.com/DeybisMelendez)
 [![Discord](https://img.shields.io/discord/505417624071438347?label=Discord%20Chat&style=social)](https://discord.gg/ZRMQVEp)
 [![Gmail](https://img.shields.io/badge/Gmail-pixelweb2007%40gmail.com-red)](mailto:pixelweb2007@gmail.com)
 
@@ -27,8 +27,8 @@ local DeybisMelendez = {
     },
     programmingLanguages = {
         lua = 100/100,
-        golang = 60/100,
-        javascript = 50/100,
+        golang = 80/100,
+        javascript = 80/100,
         python = 50/100,
         dart = 50/100,
         ruby = 30/100,
