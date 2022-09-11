@@ -1,66 +1,36 @@
-# Hi there 👋, I'm Deybis Melendez 😃
+<h1 align="center">Hi 👋, I'm Deybis Melendez</h1>
+<h3 align="center">A passionate indie game developer from Nicaragua</h3>
 
-*Indie Game Developer*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deybismelendez&label=Profile%20views&color=0e75b6&style=flat" alt="deybismelendez" /> </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/DeybisMelendez?label=Follow%20me%21&style=social)](https://github.com/DeybisMelendez)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DeybisMelendez?label=Follow%20@DeybisMelendez%21&style=social)](https://twitter.com/DeybisMelendez)
-[![Discord](https://img.shields.io/discord/505417624071438347?label=Discord%20Chat&style=social)](https://discord.gg/ZRMQVEp)
-[![Gmail](https://img.shields.io/badge/Gmail-pixelweb2007%40gmail.com-red)](mailto:pixelweb2007@gmail.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deybismelendez" alt="deybismelendez" /></a> </p>
 
-## About
+<p align="left"> <a href="https://twitter.com/deybismelendez" target="blank"><img src="https://img.shields.io/twitter/follow/deybismelendez?logo=twitter&style=for-the-badge" alt="deybismelendez" /></a> </p>
 
-```Lua
-local DeybisMelendez = {
-    pronouns = "He or Him",
-    city = "Managua/Nicaragua",
-    language = {
-        spanish = 100/100,
-        english = 40/100,
-        esperanto = 25/100
-        italian = 15/100,
-    },
-    blog = url("https://www.deybismelendez.com/"),
-    tech = {
-        godotEngine = true,
-        flutter = true,
-        kivy = true
-    },
-    programmingLanguages = {
-        lua = 100/100,
-        golang = 80/100,
-        javascript = 80/100,
-        python = 50/100,
-        dart = 50/100,
-        ruby = 30/100,
-        vala = 20/100,
-        java = 20/100,
-        html = error("HTML is not a programming language")
-    },
-    interests = {
-        "linux",
-        "open source",
-        "esoteric languages",
-        "plastic arts",
-    }
-}
-```
+- 🔭 I’m currently working on [Nicarao Chess Engine](https://github.com/DeybisMelendez/NicaraoChess)
 
-[![DeybisMelendez's github stats](https://github-readme-stats.vercel.app/api?username=DeybisMelendez)](https://github.com/DeybisMelendez/github-readme-stats)
+- 🌱 I’m currently learning **Golang, Node JS, Typescript.**
 
----
+- 📝 I regularly write articles on [deybismelendez.com](deybismelendez.com)
 
-⭐️ From [DeybisMelendez](https://github.com/DeybisMelendez)
-<!--
-**DeybisMelendez/DeybisMelendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **Lua, Godot Engine.**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **deybismelendez@outlook.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/deybismelendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deybismelendez" height="30" width="40" /></a>
+<a href="https://fb.com/deybismelendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deybismelendez" height="30" width="40" /></a>
+<a href="https://instagram.com/deybismelendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deybismelendez" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/deybismelendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deybismelendez" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deybismelendez&show_icons=true&locale=en&layout=compact" alt="deybismelendez" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deybismelendez&show_icons=true&locale=en" alt="deybismelendez" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deybismelendez&" alt="deybismelendez" /></p>
+
