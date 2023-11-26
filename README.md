@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deybismelendez" target="blank"><img src="https://img.shields.io/twitter/follow/deybismelendez?logo=twitter&style=for-the-badge" alt="deybismelendez" /></a> </p>
 
-- 🔭 I’m currently working on [Nicarao Chess Engine](https://github.com/DeybisMelendez/NicaraoChess)
+- 🔭 I’m currently working on [Nicarao Chess Engine](https://github.com/DeybisMelendez/nicarao)
 
 - 🌱 I’m currently learning **Golang, Node JS, Typescript.**
 
